@@ -1,0 +1,22 @@
+.doors{
+    width: 70%;
+    height: fit-content;
+}
+.door-imgt{
+    width: 80%;
+    height: auto;
+    border-radius: 15px;
+}
+.doors ul{
+    display: block;
+    list-style: none;
+}
+.doors ul li{
+    text-align: center;
+    font-size: 29px;
+    text-align: center;
+}
+.doors ul li a{
+    position: relative;
+    left: 150px;
+}
